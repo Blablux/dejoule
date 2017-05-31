@@ -3,8 +3,8 @@
 dejoule is a collection of vector files intendend for laser cutting, tracing and
 etching.
 
-Currently, files are saved at different states and have not been tested on real
-material (but dimensions have been checked on print).
+Currently, files are saved at different states and have not yet been tested on
+real material (but dimensions have been checked on print).
 
 Here are the three different states available :
 
@@ -26,7 +26,8 @@ test greyscale.
 + __XwingTMG__: Templates from the
 [FFG game](https://www.fantasyflightgames.com/en/products/x-wing/). Tokens have
 a different shape than in the game as I found it easier to stack. Other
-templates are supposed to be similar to the ones used in the game.
+templates are supposed to be similar to the ones used in the game. Also include
+a generic template file with common used images.
 
 ## Side Note
 
