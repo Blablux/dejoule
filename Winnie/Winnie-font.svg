@@ -14,7 +14,7 @@
    id="svg5427"
    version="1.1"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="Winnie3.svg">
+   sodipodi:docname="Winnie-font.svg">
   <defs
      id="defs5429">
     <clipPath
@@ -37,8 +37,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="385.2486"
-     inkscape:cy="749.44144"
+     inkscape:cx="303.77729"
+     inkscape:cy="753.0946"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -55,7 +55,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -63,28 +63,6 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.47999954px;line-height:0%;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.70666659"
-       x="361.98257"
-       y="364.45627"
-       id="text6297"><tspan
-         sodipodi:role="line"
-         id="tspan6299"
-         x="361.98257"
-         y="364.45627"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.47999954px;line-height:125%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0;word-spacing:0;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:0.60472441;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"> </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.47999954px;line-height:0%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.70666659"
-       x="361.98257"
-       y="364.45627"
-       id="text6301"><tspan
-         sodipodi:role="line"
-         id="tspan6303"
-         x="361.98257"
-         y="364.45627"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.47999954px;line-height:1.25;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';fill:none;stroke:#000000;stroke-width:0.60472441;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"> </tspan></text>
     <g
        id="g6583"
        transform="matrix(1.7066666,0,0,1.7066666,46.505084,-558.64899)">
@@ -239,21 +217,7 @@
          id="text868"
          inkscape:connector-curvature="0" />
     </g>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot6543"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(1.7066666,0,0,1.7066666,-35.120751,-473.93716)"><flowRegion
-         id="flowRegion6545"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush'"><rect
-           id="rect6547"
-           width="23.928572"
-           height="68.75"
-           x="232.67857"
-           y="481.82648"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush'" /></flowRegion><flowPara
-         id="flowPara6549"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Alex Brush';-inkscape-font-specification:'Alex Brush'"> </flowPara></flowRoot>    <rect
+    <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.98999999;fill:none;stroke:#000000;stroke-width:1.48299253;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect6553"
        width="527.65088"
